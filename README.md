@@ -1,2 +1,2 @@
-# JAAV---Assistant-
+# JAAV-Assistant
 Python based Virtual Assistant 
